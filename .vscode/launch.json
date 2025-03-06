@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BuLiZoneApplication<buli-zone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.buli.buli_zone.BuLiZoneApplication",
+            "projectName": "buli-zone",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
